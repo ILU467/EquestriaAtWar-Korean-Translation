@@ -849,9 +849,193 @@ solarempiresparkles.3.t:0 "우정의 공주, 크리스탈 왕국에 도착하다
  solarempiresparkles.6.d:0 "문을 두드리는 소리에 깨어난 나는 무슨 일이 벌어진건지 바로 알아차렸다. 그 멍청한 박쥐 포니가 잡혔고, 내 위치는 들통났다. 나는 재빨리 초소형 권총을 챙기고 이를 갈아대는 와중에 뿔을 밝혀 주변을 살폈다. '위험을 감수할 수 밖에 없겠어'라고 다짐한 나는 권총을 삼키고 과거 배워둔 마법을 사용해 48시간 동안 내 위장을 납 중독으로부터 보호하도록 만들었다. 그리고 문을 향해 방금 일어난 말처럼 얼빠진 얼굴을 하면서 비틀거리며 나아가 문을 연다. \n\n이윽고 벌어진 일들은 내 예상대로 였다. 난 순식간에 제압되고, 뿔에는 마법 사용을 막는 도구가 강제로 부착되었다. \n\n"트와일라잇 스파클, 당신을 크리스탈 왕국에 대한 음모를 꾸민 죄로 체포한다! 저항할 생각은 않는게 좋을거다!" \n\n"예, 저도 만나서 반가워요, 어떻게 제 이름을 다 알고계시네, 전 그쪽 이름이 뭔지 모르는데. 그리고 아침 인사 참 뭐같이 하시네요." \n\n그후 몇시간 동안은 각종 절차의 연속이었고, 끝내 나는 성 지하 감옥으로 보내져 그곳에 갇혀있다. 얼마 지나지 않아서 케이던스랑 샤이닝이 와서는 뭐라고 열심히 떠들어대는데 마치 옛날 내 모습을 보는 것 같아 상당히 아이러니했다. 그 뒤 나는 확실하게 나 혼자 있다는 것을 확인하고서 감방의 빛 안드는 구석으로 들어가 생각했다. "마법은 못쓰지만, 권총이 있으니까 뭐 어떻게든 되겠지""
  solarempiresparkles.6.a:0 "시도는 해봐야지 않겠어..."
 
- solarempiresparkles.15.t:0 "Execute"
- solarempiresparkles.15.d_susp:0 "There was a slight knock on the door, as Scorecard let himself in, closing and locking it behind him. He looked frustrated, as I gazed questioningly at the batpony from over my reading glasses. "Well?"\n\n"I was caught." He whispered softly, holding up a hoof to placate me. "I explained it away at being lost, but they're no doubt more suspicious. Nonetheless I did manage to get what I was looking for, so we have that going for us."\n\nI'd have said I expected better, but truthfully, I'd expected worse out of the barely a pony. "Very well. We’ll go forward, cautiously. Give me a few hours to prepare; I'll find you." With a soundless nod, he turned about and left, locking the door back behind him. Just in case."
- solarempiresparkles.15.d:0 "I looked up from the book I’d been reading, as somepony knocked gently on the door. "It's open." I greeted neutrally, unsure of who was at the door. As the familiar face of Scorecard entered the room, shutting it behind him with a smile, I shut the book, and gave the stallion my full attention. "Well?"\n\n"Everything is ready. Should be smooth sailing from here on out, Sparkle." He stated softly as he walked over, careful not to give anything that he did not have to away, in case we were being spied upon.\n\n"Good to hear. I'll come find you when I'm ready, then. Good evening, Scorecard."\n\n"And you as well, Sparkle." And with a nod, he was gone, as I settled back into my reading. I'd give it a few hours, then go forward with the operation. Tonight was to be a night of swiftness and precision, and I needed time to prepare myself, mentally. Soon."
+ solarempiresparkles.15.t:0 "실행"
+.10.a:0 "그럼 불가침 조약 체결과 독립을 보장하도록 요구하지."
+
+824
+
+ solarempiresparkles.10.b:0 "우린 그런 독사같은 녀석들하고는 협상하지 않는다!"
+
+825
+
+
+
+826
+
+ #TODO
+
+827
+
+ solarempiresparkles.11.t:0 "크리스탈 왕국이 협상을 거부하다."
+
+828
+
+ solarempiresparkles.11.d:0 "케이던스 공주는 선라이즈 스파클의 석방에 대한 협상을 단호하게 거부했습니다. 그자식들은 선라이즈 스파클이 세뇌되었다고 주장하면서, 그녀를 “도와주겠다”고 하고 있습니다. 빨리 그녀를 구해주지 않으면 놈들이 어떤 짓을 하게될지 모릅니다."
+
+829
+
+ solarempiresparkles.11.a:0 "그럼 그녀를 구출한다."
+
+830
+
+
+
+831
+
+ #TODO
+
+832
+
+ solarempiresparkles.12.t:0 "크리스탈 왕국의 요구 사항"
+
+833
+
+ solarempiresparkles.12.d:0 "케이던스 공주는 협상에 동의했으며, 다음과 같은 사항을 요구했습니다. 가장 눈여겨 볼 것은, 태양 제국과 크리스탈 왕국 사이에 불가침 조약을 체결한다는 것입니다. 크리스탈 놈들이 태양의 통치 아래에서 벗어나 독립을 보장하는것은 치욕스러운 일이지만, 선라이즈 스파클을 잃는 것보단 나을겁니다."
+
+834
+
+ solarempiresparkles.12.a:0 "음, 체결하도록 하지."
+
+835
+
+ solarempiresparkles.12.tp:0 "§Y선라이즈 스파클§이 [From.GetLeader]의 구속에서 풀려납니다.\n"
+
+836
+
+ solarempiresparkles.12.b:0 "감히 이런 걸 요구하다니?!"
+
+837
+
+
+
+838
+
+ #TODO
+
+839
+
+ solarempiresparkles.13.t:0 "태양 제국의 거절"
+
+840
+
+ solarempiresparkles.13.d:0 "예상하셨겠지만 데이브레이커는 선라이즈 스파클과 불가침 조약을 맞바꾸자는 요구를 거절했습니다. 그 폭군이 무슨 꿍꿍이인건지..."
+
+841
+
+ solarempiresparkles.13.a:0 "일이 어떻게 될지는 알게 되겠지."
+
+842
+
+
+
+843
+
+ #TODO
+
+844
+
+ solarempiresparkles.14.t:0 "태양 제국의 승낙"
+
+845
+
+ solarempiresparkles.14.d:0 "데이브레이커가 놀랍게도 우리의 요구에 동의했습니다. 불가침 조약이 체결될 것이며, 공주님의 시누이는 다시 태양 제국으로 넘겨질 것입니다. 왕가에게 있어선 슬프고 유감스러운 일이지만, 국가의 멸망보다는 더 나을지도 모릅니다."
+
+846
+
+ solarempiresparkles.14.a:0 "적어도 우리 국민들은 당분간 안전하겠지."
+
+847
+
+
+
+848
+
+ solarempiresparkles.6.t:0 "포획"
+
+849
+
+ solarempiresparkles.6.d:0 "문을 두드리는 소리에 깨어난 나는 무슨 일이 벌어진건지 바로 알아차렸다. 그 멍청한 박쥐 포니가 잡혔고, 내 위치는 들통났다. 나는 재빨리 초소형 권총을 챙기고 이를 갈아대는 와중에 뿔을 밝혀 주변을 살폈다. '위험을 감수할 수 밖에 없겠어'라고 다짐한 나는 권총을 삼키고 과거 배워둔 마법을 사용해 48시간 동안 내 위장을 납 중독으로부터 보호하도록 만들었다. 그리고 문을 향해 방금 일어난 말처럼 얼빠진 얼굴을 하면서 비틀거리며 나아가 문을 연다. \n\n이윽고 벌어진 일들은 내 예상대로 였다. 난 순식간에 제압되고, 뿔에는 마법 사용을 막는 도구가 강제로 부착되었다. \n\n"트와일라잇 스파클, 당신을 크리스탈 왕국에 대한 음모를 꾸민 죄로 체포한다! 저항할 생각은 않는게 좋을거다!" \n\n"예, 저도 만나서 반가워요, 어떻게 제 이름을 다 알고계시네, 전 그쪽 이름이 뭔지 모르는데. 그리고 아침 인사 참 뭐같이 하시네요." \n\n그후 몇시간 동안은 각종 절차의 연속이었고, 끝내 나는 성 지하 감옥으로 보내져 그곳에 갇혀있다. 얼마 지나지 않아서 케이던스랑 샤이닝이 와서는 뭐라고 열심히 떠들어대는데 마치 옛날 내 모습을 보는 것 같아 상당히 아이러니했다. 그 뒤 나는 확실하게 나 혼자 있다는 것을 확인하고서 감방의 빛 안드는 구석으로 들어가 생각했다. "마법은 못쓰지만, 권총이 있으니까 뭐 어떻게든 되겠지""
+
+850
+
+ solarempiresparkles.6.a:0 "시도는 해봐야지 않겠어..."
+
+851
+
+
+
+852
+
+ solarempiresparkles.15.t:0 "실행"
+
+853
+
+esparkles.6.d:0 "문을 두드리는 소리에 깨어난 나는 무슨 일이 벌어진건지 바로 알아차렸다. 그 멍청한 박쥐 포니가 잡혔고, 내 위치는 들통났다. 나는 재빨리 초소형 권총을 챙기고 이를 갈아대는 와중에 뿔을 밝혀 주변을 살폈다. '위험을 감수할 수 밖에 없겠어'라고 다짐한 나는 권총을 삼키고 과거 배워둔 마법을 사용해 48시간 동안 내 위장을 납 중독으로부터 보호하도록 만들었다. 그리고 문을 향해 방금 일어난 말처럼 얼빠진 얼굴을 하면서 비틀거리며 나아가 문을 연다. \n\n이윽고 벌어진 일들은 내 예상대로 였다. 난 순식간에 제압되고, 뿔에는 마법 사용을 막는 도구가 강제로 부착되었다. \n\n"트와일라잇 스파클, 당신을 크리스탈 왕국에 대한 음모를 꾸민 죄로 체포한다! 저항할 생각은 않는게 좋을거다!" \n\n"예, 저도 만나서 반가워요, 어떻게 제 이름을 다 알고계시네, 전 그쪽 이름이 뭔지 모르는데. 그리고 아침 인사 참 뭐같이 하시네요." \n\n그후 몇시간 동안은 각종 절차의 연속이었고, 끝내 나는 성 지하 감옥으로 보내져 그곳에 갇혀있다. 얼마 지나지 않아서 케이던스랑 샤이닝이 와서는 뭐라고 열심히 떠들어대는데 마치 옛날 내 모습을 보는 것 같아 상당히 아이러니했다. 그 뒤 나는 확실하게 나 혼자 있다는 것을 확인하고서 감방의 빛 안드는 구석으로 들어가 생각했다. "마법은 못쓰지만, 권총이 있으니까 뭐 어떻게든 되겠지""
+
+958
+
+
+
+959
+
+850
+
+960
+
+
+
+961
+
+ solarempiresparkles.6.a:0 "시도는 해봐야지 않겠어..."
+
+962
+
+
+
+963
+
+851
+
+964
+
+
+
+965
+
+
+
+966
+
+
+
+967
+
+852
+
+968
+
+
+
+969
+
+ solarempiresparkles.15.t:0 "실행"
+
+970
+
+
+
+971
+
+853
+
+972
+
+
+
+973
+
+ solarempiresparkles.15.d_susp:0 "스코어카드가 문을 닫고 잠그는 순간 문을 살짝 두드렸다. 내가 미심쩍은 듯이 독서용 안경 너머로 박쥐 포니를 쳐다보았을 떄, 그는 답답한 표정을 지었다. "글쎄요?" "잡혔어요."그는 나를 달래기 위해 발굽을 들고 부드럽게 속삭였다." 나는 길을 잃었다고 설명했지만, 그들은 더이상 의심의 여지가 없었어요. 그렇기는 하지만 전 제가 겨우 제가 원하던겄을 얻었고, 그래서 우리는 그것을 계속해나가고 있어요." 내가 예상했던 것보다 내가 더 잘할 수 있다고 얘기했다, 하지만 정직하게는, 나는 겨우 포니에서 더 나빠질 것이라고 예상했다. "좋아요. 조심스럽게 앞으로 갈게요 . 준비할 시간을 몇 시간만 주면 전 찾을 수 있을꺼에요." 그는 소리 없이 끄덕이면서 돌아서서 문을 잠그고 나갔다. 혹시 모르니까"
+ solarempiresparkles.15.d:0 "나는 내가 읽던 책에 눈을 들어 보았다. 그떄 어떤 포니가 문을 살며시 두드렸다. "열렸어요." 나는 어떤 누군가가 문 앞에 있는지 확신하지 못한 채 그저그냥 칙칙하게 인사했다. 낯익은 스코어카드의 얼굴이 방 안으로 들어서며 웃으며 뒤에서 닫자 나는 책을 덮고, 종마에게 온 신경을 쏟았다.   "
  solarempiresparkles.15.a:0 "Now, we just need to grab that brat..."
 
  solarempiresparkles.150.t:0 "Almost there"
